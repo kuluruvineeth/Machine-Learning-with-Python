@@ -6,3 +6,9 @@
 * Box and Whisker PLots
 * Correlation matrix
 * Scatter Plot matrix
+
+## Data Pre-processing methods
+* Rescale data
+* Standardize data
+* Normalize data
+* Binarize data
