@@ -12,3 +12,9 @@
 * Standardize data
 * Normalize data
 * Binarize data
+
+## [Feature Selection Methods](https://github.com/kuluruvineeth/Machine-Learning-with-Python/blob/main/Feature%20Selection%20methods.ipynb)
+* Univariate Selection
+* Recursive Feature Elimination
+* Principle Component Analysis
+* Feature Importance
