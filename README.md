@@ -28,13 +28,13 @@
 ## [Algorithm Evaluation Metrics](https://github.com/kuluruvineeth/Machine-Learning-with-Python/blob/main/Performance%20Metrics%20of%20ML%20algorithms.ipynb)
   ## 1. Classification Metrics
   * Classification Accuracy
-        * Logarithmic Loss
-        * Area Under ROC Curve
-        * Confusion Matrix
-        * Classification Report
+  * Logarithmic Loss
+  * Area Under ROC Curve
+  * Confusion Matrix
+  * Classification Report
 
   ## 2. Regression Metrics
-        * Mean Absolute Error
-        * Mean Squared Error
-        * R^2
+  * Mean Absolute Error
+  * Mean Squared Error
+  * R^2
 
