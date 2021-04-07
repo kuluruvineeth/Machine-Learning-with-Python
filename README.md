@@ -24,3 +24,17 @@
 * Cross Validation
 * Leave One Out Cross Validation
 * Repeated Random Test-Train Splits
+
+## Algorithm Evaluation Metrics
+  ## 1. Classification Metrics
+        * Classification Accuracy
+        * Logarithmic Loss
+        * Area Under ROC Curve
+        * Confusion Matrix
+        * Classification Report
+
+  ## 2. Regression Metrics
+        * Mean Absolute Error
+        * Mean Squared Error
+        * R^2
+
