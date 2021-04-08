@@ -62,5 +62,5 @@
 * Classification and Regression Trees
 * Support Vector Machines
 
-## [Comparing ML Algorithms]()
-![comparison]()
+## [Comparing ML Algorithms](https://github.com/kuluruvineeth/Machine-Learning-with-Python/blob/main/Comparing%20ML%20Algorithms.ipynb)
+![comparison](https://github.com/kuluruvineeth/Machine-Learning-with-Python/blob/main/comparison.png)
