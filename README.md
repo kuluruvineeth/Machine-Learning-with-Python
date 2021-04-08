@@ -38,3 +38,13 @@
   * Mean Squared Error
   * R^2
 
+## [Spot-Check On Classification Algorithms]()
+1. **Linear ML Algorithms**
+* Logistic Regression
+* Linear Discriminant Analysis
+
+2. **Nonlinear ML Algorithms
+* k-Nearest Neighbors
+* Naive Bayes
+* Classification and Regression Trees
+* Support Vector Machines
