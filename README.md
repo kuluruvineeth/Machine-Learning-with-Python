@@ -61,3 +61,6 @@
 * k-Nearest Neighbors
 * Classification and Regression Trees
 * Support Vector Machines
+
+## [Comparing ML Algorithms]()
+![comparison]()
