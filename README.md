@@ -48,3 +48,16 @@
     * Naive Bayes
     * Classification and Regression Trees
     * Support Vector Machines
+
+## [Spot-Check On Regression Algorithms](https://github.com/kuluruvineeth/Machine-Learning-with-Python/blob/main/Spot-Check%20Regression%20Algorithms.ipynb)
+
+**1. Linear ML Algorithms**
+   * Linear Regression
+   * Ridge Regression
+   * LASSO Linear Regression
+   * Elastic Net Regression
+   
+**2. Nonlinear ML Algorithms**
+   * k-Nearest Neighbors
+   * Classification and Regression Trees
+   * Support Vector Machines
