@@ -64,3 +64,7 @@
 
 ## [Comparing ML Algorithms](https://github.com/kuluruvineeth/Machine-Learning-with-Python/blob/main/Comparing%20ML%20Algorithms.ipynb)
 ![comparison](https://github.com/kuluruvineeth/Machine-Learning-with-Python/blob/main/comparison.png)
+
+## [Automating ML Workflow Using Pipeline](https://github.com/kuluruvineeth/Machine-Learning-with-Python/blob/main/Automating%20ML%20Workflows%20with%20Pipelines.ipynb)
+* Data Preparation and modeling.
+* Feature Extraction and modeling.
