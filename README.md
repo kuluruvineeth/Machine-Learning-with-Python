@@ -40,11 +40,11 @@
 
 ## [Spot-Check On Classification Algorithms](https://github.com/kuluruvineeth/Machine-Learning-with-Python/blob/main/Spot-Check%20Classification%20Algorithms.ipynb)
 1. **Linear ML Algorithms**
-  * Logistic Regression
-  * Linear Discriminant Analysis
+    * Logistic Regression
+    * Linear Discriminant Analysis
 
 2. **Nonlinear ML Algorithms**
-  * k-Nearest Neighbors
-  * Naive Bayes
-  * Classification and Regression Trees
-  * Support Vector Machines
+    * k-Nearest Neighbors
+    * Naive Bayes
+    * Classification and Regression Trees
+    * Support Vector Machines
