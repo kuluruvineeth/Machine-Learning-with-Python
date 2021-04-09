@@ -69,12 +69,12 @@
 * Data Preparation and modeling.
 * Feature Extraction and modeling.
 
-## [Improving Performance with Ensembles]()
+## [Improving Performance with Ensembles](https://github.com/kuluruvineeth/Machine-Learning-with-Python/blob/main/Improving%20performance%20with%20ensembles.ipynb)
 1. **Bagging**
-* Bagged Decision Trees
-* Random Forest
-* Extra Trees
+  * Bagged Decision Trees
+  * Random Forest
+  * Extra Trees
 2. **Boosting Algorithms**
-* AdaBoost
-* Stochastic Gradient Boosting
+  * AdaBoost
+  * Stochastic Gradient Boosting
 3. **Voting Ensemble**
