@@ -68,3 +68,13 @@
 ## [Automating ML Workflow Using Pipeline](https://github.com/kuluruvineeth/Machine-Learning-with-Python/blob/main/Automating%20ML%20Workflows%20with%20Pipelines.ipynb)
 * Data Preparation and modeling.
 * Feature Extraction and modeling.
+
+## [Improving Performance with Ensembles]()
+1. **Bagging**
+* Bagged Decision Trees
+* Random Forest
+* Extra Trees
+2. **Boosting Algorithms**
+* AdaBoost
+* Stochastic Gradient Boosting
+3. **Voting Ensemble**
