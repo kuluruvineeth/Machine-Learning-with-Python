@@ -83,3 +83,7 @@
 1.**Grid Search Parameter Tuning**
 
 2.**Randomized Search Parameter Tuning**
+
+## [Saving and Loading ML Models]()
+1. **Using Pickle**
+2. **Using Joblib**
